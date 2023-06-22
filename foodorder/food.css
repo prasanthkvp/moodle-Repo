@@ -1,0 +1,28 @@
+#First_Main{
+    
+    background-size: cover;
+    height: 50vh;
+    width: 400px;
+    color: #323f4b;
+    padding-left: 20%;
+    padding-top: 5%;
+    
+}
+.First_One{
+    background-color: #f6c56e;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top:-25px;
+    
+}
+.First_Sec{
+    background-color: #ffffff;
+
+}
+h5{
+    font-family: 'Bree Serif', serif; 
+}
+p{
+  
+font-family: 'Roboto';
+}
