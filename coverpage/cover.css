@@ -1,0 +1,21 @@
+#Main_One{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: contain;
+    height: 550px;
+    width: 400px;
+     font-family: 'Bree Serif', serif; 
+     padding-top: 12%;
+    padding-right: 4%;
+    padding-left: 4%; 
+    position: relative;
+    left: 35%;
+    
+    
+}
+
+.Two{
+    background-color: #00000080;
+    border: 5px solid #48ee59;
+    padding-left: 30px;
+    
+}
